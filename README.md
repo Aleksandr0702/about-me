@@ -3,4 +3,6 @@
 2. Вторая информация обо мне
 3. Третья информация обо мне
 4. Четвертая информация обо мне
+
+
 ![About me](https://github.com/Aleksandr0702/about-me/blob/main/About%20me.jpg
