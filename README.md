@@ -4,5 +4,6 @@
 3. Третья информация обо мне
 4. Четвертая информация обо мне
 
-
+-
 ![image](https://user-images.githubusercontent.com/110557601/235845436-1deae31f-da68-4ce8-8a0a-fa7ee44e6b37.png)
+-
