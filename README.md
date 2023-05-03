@@ -5,4 +5,4 @@
 4. Четвертая информация обо мне
 
 
-![About me](https://github.com/Aleksandr0702/about-me/blob/main/About%20me.jpg
+![image](https://user-images.githubusercontent.com/110557601/235845436-1deae31f-da68-4ce8-8a0a-fa7ee44e6b37.png)
